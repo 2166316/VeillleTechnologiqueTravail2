@@ -1,0 +1,2 @@
+pour compiler code
+"start": "tsc --watch",
